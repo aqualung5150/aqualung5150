@@ -4,7 +4,6 @@
   <h2>Backend</h2>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"> 
@@ -14,12 +13,15 @@
   
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">  
-  <img src="https://img.shields.io/badge/Querydsl-1E8CBE?style=for-the-badge&logoColor=white"> 
-  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Querydsl-1E8CBE?style=for-the-badge&logoColor=white">  
   <br>
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <br>
 
   <h2>Frontend</h2>
